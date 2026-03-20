@@ -39,7 +39,7 @@ git clone https://github.com/claudiacordobam/CoyoteFalls.git
 
 ---
 
-## 🎬 Examples
+## ▶️ Modes
 
 **Cartoon Mode** 🖼️
 The Coyote runs horizontally and then falls abruptly.
